@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "eQpZjc/LHafnU76lA5n6l+W5S423v1V0DRDhLXi9GmE=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "E:\\Learning\\ClickAndCart\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
